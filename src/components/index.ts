@@ -1,0 +1,6 @@
+export { Header } from './Header'
+export { Footer } from './Footer'
+export { CartDrawer } from './CartDrawer'
+export { ProductCard } from './ProductCard'
+export { CategoryCard } from './CategoryCard'
+export { HeroBanner } from './HeroBanner'
